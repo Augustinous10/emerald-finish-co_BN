@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/ubudasawallpaint/emerald-finish-co_BN/
+    - /bin/cp -R * $DEPLOYPATH
